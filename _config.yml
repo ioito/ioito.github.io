@@ -1,1 +1,2 @@
-baseurl: /tcpip
+#baseurl: /tcpip
+permalink: /tcpip/:year/:month/:day/:title
